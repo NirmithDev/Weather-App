@@ -8,7 +8,7 @@
 
 - After that start by adding a little bit of functionality and seeing if the API is active
 
-- After it is active start trying to access and get the little details baby steps -> such as 3when user inputs something such as say manama it must return the city manama and country name
+- After it is active start trying to access and get the little details baby steps -> such as when user inputs something such as say manama it must return the city manama and country name
 
 - then the over writing of the values using innerHTML of JS DOM manipulation whatever you want to call it
 
