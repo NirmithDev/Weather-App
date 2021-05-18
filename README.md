@@ -13,3 +13,8 @@
 - then the over writing of the values using innerHTML of JS DOM manipulation whatever you want to call it
 
 - In the end you can decide on what ya want it to look like so yeah go crazy
+
+- Project Demo
+
+![Weather App](https://github.com/NirmithVictor/Weather-App/blob/main/What%20it%20looks%20like.png)
+
